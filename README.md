@@ -3,7 +3,9 @@
 1. Ispiši članove niza koji su veći od narednog člana.
 
 2. Pronaci najveci clan niza.
+
 3. Pronaci najmanji clan niza.
+
 4. Pronaci i najmanji i najveci jednim prolaskom kroz petlju.
 
 5. Plate vece od proseka: Izračunaj aritmetičku sredinu i ispiši članove niza veće od aritmetičke sredine.
